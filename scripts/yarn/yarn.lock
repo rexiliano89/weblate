@@ -62,10 +62,10 @@ multi.js@0.5.3:
   resolved "https://registry.yarnpkg.com/multi.js/-/multi.js-0.5.3.tgz#544426bf2a12eb0c990401a75db52150869f2e2b"
   integrity sha512-DaYORfSqqYY3E6zhjb4CGYe2VUnQXV22sZDoFs6H3Ge5szh8FVoak0tJpuYFgpxn81khOQr2wM8+gMDgjL9GyQ==
 
-prismjs@1.29.0:
-  version "1.29.0"
-  resolved "https://registry.yarnpkg.com/prismjs/-/prismjs-1.29.0.tgz#f113555a8fa9b57c35e637bba27509dcf802dd12"
-  integrity sha512-Kx/1w86q/epKcmte75LNrEoT+lX8pBpavuAbvJWRXar7Hz8jrtF+e3vY751p0R8H9HdArwaCTNDDzHg/ScJK1Q==
+prismjs@1.30.0:
+  version "1.30.0"
+  resolved "https://registry.yarnpkg.com/prismjs/-/prismjs-1.30.0.tgz#d9709969d9d4e16403f6f348c63553b19f0975a9"
+  integrity sha512-DEvV2ZF2r2/63V+tK8hQvrR2ZGn10srHbXviTlcv7Kpzw8jWiNTqbVgjO3IY8RxrrOUF8VPMQQFysYYYv0YZxw==
 
 slugify@1.6.6:
   version "1.6.6"
